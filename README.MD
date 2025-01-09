@@ -27,7 +27,9 @@
 </div>
 
 # Projeto Podcast Gerado por I.A.s
-
+|  título  | Vamos lá, me escreva um titulo de um post sobre IA com um estilo em função de chamar atenção de um público curioso quanto ao assunto, o nicho é ia, e eu gostaria de subnichos antes de vc me dar uma resposta sobre os itens anteriores.                                                       |
+| conteúdo | Valeu, agora vc pode fazer txts focando nos respectivos temas que vc sugeriu antes? {regras} >Explique sempre de uma maneira simples ( pode ser divertida, pois não quero que o leitor fique desinteressado, então use as técnicas q sabe para evitar isso, por favor ) >deixe o texto enxuto >se possivel, traga exemplos interessantes, considere que nem todas as pessoas serão iguais, mas meu público alvo é adolescente. Creio q vc conhece a situação dos jovens atualmente, então se baseie nisso. |
+ChatGPT：
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante meu período cursando a [DIO](https://dio.me)
 
@@ -35,36 +37,9 @@
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você agora é roteirista de podcast, e vamos criar um podcast de tecnologia focado em 'Cultura Geek'. Eu gostaria de uma ajuda sua para criar cinco sugestões de nomes criativos para um 'podcast geek' feito por nerds. Então, você pode criar trocadilhos a partir desse tema.
+|  título  | Você agora é roteirista de podcast, e vamos criar um podcast de tecnologia focado em 'Cultura Geek'. Eu gostaria de uma ajuda sua para criar cinco sugestões de nomes criativos para um 'podcast geek' feito por nerds. Então, você pode criar trocadilhos a partir desse tema: {Rules} Nome enxuto; Nome e subtítulo; Nome com trocadilho (com nomes de franquias conhecidas como Kimetsu no Yaiba, Black Clover, Blue lock, Minha querida Oni, etc... ); Palavra que remeta ao Geek|
 
-{Rules}
--Nome enxuto
--Nome e subtítulo
--Nome com trocadilho (com nomes de franquias conhecidas como Kimetsu no Yaiba, Black Clover, Blue lock, Minha querida Oni, etc... )
-- Palavra que remeta ao Geek                                                        |
-
-| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de focado em cultura geek cujo o nome é "GeekCast - Magia, Conteúdo e Diversão",  com o público alvo sendo jovem-adulto. (vc pode usar o canal "Jovem Otaku" de referência)
-
-o formato do roteiro deve ser
-[INTRODUÇÃO]
-[CURIOSIDADE 1]
-[CURIOSIDADE 2]
-[FINALIZAÇÃO]
-
-{REGRAS}
-
-- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal "Jovem Otaku"
-- no bloco [CURIOSIDADE 1] substitua por curiosidades geeks interessantes e que cativem meu público 
-- no bloco [CURIOSIDADE 2] sobre algum anime como Kimetsu ou então fale sobre os eventos geek que ocorrem no Brasil ( escolha o que preferir ) 
-- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Kaik, e essas foram as informações nerds dessa semana' 
-- use termos de fácil explicação
-- O podcast vai ser apresentado somente por uma pessoa, chamada kaik 
-- O podcast deve ter 5000 caracteres 
-
-{REGRAS NEGATIVAS}
-
-- Não use muitos termos técnicos
-- Não coloque datas com números, escreva por extenso |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de focado em cultura geek cujo o nome é "GeekCast - Magia, Conteúdo e Diversão",  com o público alvo sendo jovem-adulto. (vc pode usar o canal "Jovem Otaku" de referência). O formato do roteiro deve ser: [INTRODUÇÃO], [CURIOSIDADE 1], [CURIOSIDADE 2] e [FINALIZAÇÃO] / {REGRAS} no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal "Jovem Otaku"; no bloco [CURIOSIDADE 1] substitua por curiosidades geeks interessantes e que cativem meu público; no bloco [CURIOSIDADE 2] sobre algum anime como Kimetsu ou então fale sobre os eventos geek que ocorrem no Brasil ( escolha o que preferir ); no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Kaik, e essas foram as informações nerds dessa semana'; use termos de fácil explicação; O podcast vai ser apresentado somente por uma pessoa, chamada kaik; O podcast deve ter 5000 caracteres / {REGRAS NEGATIVAS} Não use muitos termos técnicos; Não coloque datas com números, escreva por extenso |
 
 
 Shakker AI：
