@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Kirby.png"
+    src="./Kirby.png"
     width="300"
 />
 </p>
