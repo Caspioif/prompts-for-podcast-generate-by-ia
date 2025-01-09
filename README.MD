@@ -42,7 +42,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pelo Capcut, além de para tratar aúdio e adicionar sons de fundo
+- Audio gerado pelo Capcut, além de tratá-lo e adicionar sons de fundo
 - Shakker AI Para gerar capas
 
 ## 📚 Materiais
