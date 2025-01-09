@@ -66,22 +66,13 @@ Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais`
       width=80 
       src="Pacman.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspKaik Klydson<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/Caspioif">
         GitHub
     </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
+   
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
