@@ -73,10 +73,7 @@ Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais`
         GitHub
     </a>
    
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+
 
 ---
 
