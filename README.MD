@@ -31,6 +31,51 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante meu período cursando a [DIO](https://dio.me)
 
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você agora é roteirista de podcast, e vamos criar um podcast de tecnologia focado em 'Cultura Geek'. Eu gostaria de uma ajuda sua para criar cinco sugestões de nomes criativos para um 'podcast geek' feito por nerds. Então, você pode criar trocadilhos a partir desse tema.
+
+{Rules}
+>Nome enxuto
+>Nome e subtítulo
+>Nome com trocadilho (com nomes de franquias conhecidas como Kimetsu no Yaiba, Black Clover, Blue lock, Minha querida Oni, etc... )
+> Palavra que remeta ao Geek                                                        |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de focado em cultura geek cujo o nome é "GeekCast - Magia, Conteúdo e Diversão",  com o público alvo sendo jovem-adulto. (vc pode usar o canal "Jovem Otaku" de referência)
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal "Jovem Otaku"
+- no bloco [CURIOSIDADE 1] substitua por curiosidades geeks interessantes e que cativem meu público 
+- no bloco [CURIOSIDADE 2] sobre algum anime como Kimetsu ou então fale sobre os eventos geek que ocorrem no Brasil ( escolha o que preferir ) 
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Kaik, e essas foram as informações nerds dessa semana' 
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada kaik 
+- O podcast deve ter 5000 caracteres 
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não coloque datas com números, escreva por extenso |
+
+
+Shakker AI：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| títulos | Create an image in pixel art style and in the center place a Pacman with a white headset, beneath it there will be a block of earth and the background will be scorched in the #F5F5DC radial gradient tone. /  Create an image in pixel art style and in the center place a Kirby with a cap, the background will have a misty texture in shades of pink with a lighter gradient. |
+
+
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
 ## 💻 Tecnologias utilizadas no projeto
